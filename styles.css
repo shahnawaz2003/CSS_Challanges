@@ -1,0 +1,39 @@
+*{
+    text-align: center;
+}
+
+h1{
+    font-weight: normal;
+}
+a{
+    color: rgb(59, 155, 59);
+}
+
+
+h2 {
+  font-weight: bolder;
+  font-size: 3rem;
+  line-height: 0.5rem;
+}
+
+.parentContainer {
+  text-align: center;
+  background-color: #d7d7d7;
+  padding-bottom: 3rem;
+  padding-top: 1rem;
+}
+
+.img-box{
+    border-radius: 50%;
+    width: 50%;
+}
+
+.section2{
+    background-color: #feeae9;
+    padding: 1rem;
+}
+
+.section3{
+    background-color: #eaf9ff;
+    padding: 1rem;
+}
